@@ -1,8 +1,6 @@
 import CryptoJS from 'crypto-js'
 import zip from 'lodash.zipobject'
 
-import 'isomorphic-fetch'
-
 const BASE = 'https://api.binance.com'
 
 /**

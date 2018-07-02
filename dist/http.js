@@ -17,8 +17,6 @@ var _lodash = require('lodash.zipobject');
 
 var _lodash2 = _interopRequireDefault(_lodash);
 
-require('isomorphic-fetch');
-
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 var BASE = 'https://api.binance.com';
